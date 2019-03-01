@@ -2,15 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
     <meta charset="UTF-8">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}"/>
@@ -25,6 +16,7 @@
   <body>
 
     <header class="page-header" role="banner">
+      <p class="image"><img src="PMACS/images/roofline2.png" /></p>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
     </header>
