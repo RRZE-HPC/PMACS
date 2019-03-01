@@ -16,11 +16,13 @@
   <body>
 
     <header class="page-header" role="banner">
-      <img height=100 src="/PMACS/images/roofline2.png" />
-      <nobr><h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1></nobr>
+      <table><tr>
+              <td><img height=100 src="/PMACS/images/roofline2.png" /></td>
+              <td><h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1></td>
       <!--<p class="project-name">{{ page.title | default: site.title | default:  site.github.repository_name }}</p>-->
-      <img height=100 src="/PMACS/images/example.png" />
+              <td><img height=100 src="/PMACS/images/example.png" /></td>
       <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
+      </tr></table>
     </header>
 
     <main id="content" class="main-content" role="main">
