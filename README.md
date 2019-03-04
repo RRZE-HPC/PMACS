@@ -45,3 +45,6 @@ The research interests of Anthony Danalis span several topics within the broad d
 * __Erich Focht__ (NEC, Germany)
 * __Axel Auweter__ (Megware, Germany)
 * __Stephane Eranian__ (Google LLC, USA)
+
+## Contact
+If you want to contact us, please write to Thomas _DOT_ Gruber _AT_ fau _DOT_ de
