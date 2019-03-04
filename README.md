@@ -44,3 +44,4 @@ The research interests of Anthony Danalis span several topics within the broad d
 * __Jonas Hahnfeld__ (ITC, RWTH Aachen, Germany)
 * __Erich Focht__ (NEC, Germany)
 * __Axel Auweter__ (Megware, Germany)
+* __Stephane Eranian__ (Google LLC, USA)
