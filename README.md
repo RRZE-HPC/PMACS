@@ -19,6 +19,8 @@ The page limit is 12 pages, including all references and appendices, and the for
 
 There is a blind review process for each submitted paper with at least three reviewers from the programme committee. The review process will use [EasyChair](https://easychair.org/) for organization.
 
+[EasyChair website of the workshop](https://easychair.org/conferences/conference_info.cgi?a=21382832)
+
 ## Workshop dates
 * Papers submission deadline: May 10, 2019
 * Author notification: June 28, 2019
