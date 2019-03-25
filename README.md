@@ -11,7 +11,7 @@ Performance monitoring and analysis are widely used in data center operations. D
 Paper contributions for this workshop should address at least one of the following topics:
 * Data collection on all entities of a cluster system (compute nodes, management nodes, infrastructure nodes as well as network components)
 * Efficient transferring of the gathered metrics to intermediate systems (storage, direct visualization, …)
-* Storage of metrics for later use (data-bases, data management systems, …)
+* Storage of metrics for later use (databases, data management systems, …)
 * Visualization of system monitoring metrics
 * Derived results and event triggering based on data analytics (machine learning, stream analysis, statistics, event management systems, ...)
 
@@ -22,7 +22,7 @@ There is a blind review process for each submitted paper with at least three rev
 [EasyChair website of the workshop](https://easychair.org/conferences/conference_info.cgi?a=21382832)
 
 ## Workshop dates
-* Papers submission deadline: May 10, 2019
+* Papers submission deadline: May 3, 2019
 * Author notification: June 28, 2019
 * Registration of at least one author per paper: July 15, 2019
 * Workshop dates: August 26-27, 2019
