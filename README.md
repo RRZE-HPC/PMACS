@@ -22,7 +22,8 @@ There is a blind review process for each submitted paper with at least three rev
 [EasyChair website of the workshop](https://easychair.org/conferences/conference_info.cgi?a=21382832)
 
 ## Workshop dates
-* Papers submission deadline: May 10, 2019
+* ~~Papers submission deadline: May 10, 2019~~
+* **UPDATE: Extended paper submission deadline: May 24, 2019**
 * Author notification: June 28, 2019
 * Registration of at least one author per paper: July 15, 2019
 * Workshop dates: August 26-27, 2019
