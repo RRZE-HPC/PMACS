@@ -27,7 +27,7 @@ There is a blind review process for each submitted paper with at least three rev
 * Author notification: June 28, 2019
 * Registration of at least one author per paper: July 15, 2019
 * ~~Workshop dates: August 26-27, 2019~~
-* **UPDATE: Workshop dates: August 26, 2019**
+* **UPDATE: Workshop date: August 26, 2019**
 * Camera-ready paper (including LaTeX sources) deadline: October 7, 2019 
 
 ## Workshop agenda
