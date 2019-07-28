@@ -26,8 +26,21 @@ There is a blind review process for each submitted paper with at least three rev
 * **UPDATE: Extended paper submission deadline: May 24, 2019**
 * Author notification: June 28, 2019
 * Registration of at least one author per paper: July 15, 2019
-* Workshop dates: August 26-27, 2019
-* Camera-ready paper (including LaTeX sources) deadline: October 7, 2019
+* ~~Workshop dates: August 26-27, 2019~~
+* **UPDATE: Workshop dates: August 26, 2019**
+* Camera-ready paper (including LaTeX sources) deadline: October 7, 2019 
+
+## Workshop agenda
+
+|Time|Title and authors|
+|---|----|
+|14:00 - 14:45| Keynote by Stephane Eranian (Google LLC, USA)|
+|14:45 - 15:15| MPCDF HPC Performance Monitoring System: Enabling Insight via Job-Specific Analysis by Luka Stanisic and Klaus Reuter (Max Planck Computing and Data Facility (MPCDF)) |
+| 15:15 - 15:30 | Survey with the workshop attendees |
+| 15:30 - 16:00 | Coffee Break|
+|16:00 - 16:30| Sparse Grid Regression for Performance Prediction Using High-Dimensional Run Time Data by Philipp Neumann (DKRZ, German Climate Computing Center)|
+|16:30 - 17:00|Towards a Predictive Energy Model for HPC Runtime Systems Using Supervised Learning by Gence Ozer, Sarthak Garg, Neda Davoudi, Gabrielle Poerwawinata, Matthias Maiterth, Alessio Netti and Daniele Tafani (TU Munich, LRZ Munich, Intel Corp.)|
+|17:00 - 17:30|Resource Aware Scheduling for EDARegression Jobs by Saurav Nanda, Ganapathy Parthasarathy, Parivesh Choudhary and Arun Venkatachar (Synopsys Inc.)|
 
 ## Chairs
 ### Thomas Gruber
