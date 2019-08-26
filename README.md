@@ -32,13 +32,13 @@ There is a blind review process for each submitted paper with at least three rev
 
 ## Workshop agenda
 
-|Time|Title and authors|
-|---|----|
-|14:00 - 14:45| Keynote by Stephane Eranian (Google LLC, USA)|
-|14:45 - 15:15| MPCDF HPC Performance Monitoring System: Enabling Insight via Job-Specific Analysis by Luka Stanisic and Klaus Reuter (Max Planck Computing and Data Facility (MPCDF)) |
-| 15:15 - 15:30 | Survey with the workshop attendees |
-| 15:30 - 16:00 | Coffee Break|
-|16:00 - 16:30| Sparse Grid Regression for Performance Prediction Using High-Dimensional Run Time Data by Philipp Neumann (DKRZ, German Climate Computing Center)|
+|Time|Title and authors|PDF|
+|---|----|---|
+|14:00 - 14:45| Keynote by Stephane Eranian (Google LLC, USA)||
+|14:45 - 15:15| MPCDF HPC Performance Monitoring System: Enabling Insight via Job-Specific Analysis by Luka Stanisic and Klaus Reuter (Max Planck Computing and Data Facility (MPCDF)) ||
+| 15:15 - 15:30 | Survey with the workshop attendees |[PDF](slides/PMACS-Intro.pdf)|
+| 15:30 - 16:00 | Coffee Break||
+|16:00 - 16:30| Sparse Grid Regression for Performance Prediction Using High-Dimensional Run Time Data by Philipp Neumann (DKRZ, German Climate Computing Center)|[PDF](slides/Philipp_Neumann.pdf)|
 |16:30 - 17:00|Towards a Predictive Energy Model for HPC Runtime Systems Using Supervised Learning by Gence Ozer, Sarthak Garg, Neda Davoudi, Gabrielle Poerwawinata, Matthias Maiterth, Alessio Netti and Daniele Tafani (TU Munich, LRZ Munich, Intel Corp.)|
 |17:00 - 17:30|Resource Aware Scheduling for EDARegression Jobs by Saurav Nanda, Ganapathy Parthasarathy, Parivesh Choudhary and Arun Venkatachar (Synopsys Inc.)|
 
