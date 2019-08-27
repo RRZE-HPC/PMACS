@@ -43,7 +43,7 @@ There is a blind review process for each submitted paper with at least three rev
 |17:00 - 17:30|Resource Aware Scheduling for EDARegression Jobs by Saurav Nanda, Ganapathy Parthasarathy, Parivesh Choudhary and Arun Venkatachar (Synopsys Inc.)|
 
 ### Papers
-Get the papers from [here](https://owncloud.gwdg.de/index.php/s/9WVlVyocQYuTJ9F) (PW:EPGoe2019). You need a seperate password for unpacking the ZIP archive of the PMACS workshop: PMACS_EP2019
+Get the papers from [here](https://owncloud.gwdg.de/index.php/s/9WVlVyocQYuTJ9F) (PW: EPGoe2019). You need a seperate password for unpacking the ZIP archive of the PMACS workshop: PMACS_EP2019
 
 ## Chairs
 ### Thomas Gruber
