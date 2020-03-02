@@ -26,11 +26,11 @@ There is a blind review process for each submitted paper with at least three rev
 
 
 ## Workshop dates
-* Papers submission deadline: May 17, 2020
-* Author notification: May 31, 2020
+* Papers submission deadline: May 8, 2020
+* Author notification: June 30, 2020
 * Registration of at least one author per paper: July 15, 2020
 * Workshop dates: August 24-25, 2020
-* Camera-ready paper (including LaTeX sources) deadline: **not published yet**
+* Camera-ready paper (including LaTeX sources) deadline: September 11, 2020
 
 ## Workshop agenda
 
