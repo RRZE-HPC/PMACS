@@ -23,6 +23,8 @@ The page limit is 12 pages, including all references and appendices, and the for
 
 There is a blind review process for each submitted paper with at least three reviewers from the programme committee. The review process will use [EasyChair](https://easychair.org/) for organization.
 
+EasyChair submission page for the PMACS workshop: [https://easychair.org/conferences/submissions?a=24472993](https://easychair.org/conferences/submissions?a=24472993)
+
 
 
 ## Workshop dates
