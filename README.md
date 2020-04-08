@@ -25,6 +25,7 @@ There is a blind review process for each submitted paper with at least three rev
 
 EasyChair submission page for the PMACS workshop: [https://easychair.org/conferences/?conf=europar2020workshop](https://easychair.org/conferences/?conf=europar2020workshop)
 
+**Update**: Due to the current COVID-19 situation, it is unclear whether the workshops will be held at EuroPar. Until further decision by the committee (probably April 15th), the **Call for papers is paused**.
 
 
 ## Workshop dates
