@@ -47,6 +47,10 @@ Key professional activities:  Co-leader of the “Top50 ranking of the most powe
 
 The remaining agenda will be published as soon as the number of papers is finalized.
 
+**Information from the Euro-Par workshop committee**:
+* A small fee will be required from all accepted papers (amount currently unknown)
+* The workshop talks can be either "Slides and pre-recorded video presentations" or "Streaming presentations". We will contact the authors which option they prefer.
+
 
 ## Chairs
 ### Thomas Gruber
