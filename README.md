@@ -36,7 +36,8 @@ EasyChair submission page for the PMACS workshop: [https://easychair.org/confere
 * ~~Author notification: June 30, 2020~~
 * ~~**Update**: Author notification: July 3, 2020~~
 * **Update**: Author notification: July 21, 2020
-* **Update**: PDF versions of all accepted papers (camera ready versions for informal proceedings): July 10, 2020 *might be modified*
+* ~~**Update**: PDF versions of all accepted papers (camera ready versions for informal proceedings): July 10, 2020 *might be modified*~~
+* **Update**: PDF versions of all accepted papers (camera ready versions for informal proceedings): July 28, 2020
 * ~~Registration of at least one author per paper: July 15, 2020~~
 * Workshop dates: August 24-25, 2020
 * Camera-ready paper (including LaTeX sources) deadline: September 11, 2020
