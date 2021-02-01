@@ -1,5 +1,5 @@
 # PMACS - Performance Monitoring and Analysis of Cluster Systems
-The workshop will take place in conjunction with the [Euro-Par](https://2021.euro-par.org) conference in Lisbon, Portugal, from Augusti 30 to September 3, 2021.
+The workshop will take place in conjunction with the [Euro-Par](https://2021.euro-par.org) conference in Lisbon, Portugal, from August 30 to September 3, 2021.
 
 ## About this workshop
 For a long time, hardware performance monitoring was used on a small scale to measure and analyze data of single application runs in order to detect performance limitations caused by hardware and/or software. Monitoring the whole cluster system for observing hardware failures has been the duty of system administrators with emphasis on operating the system and changes in the system parameters. In recent years, many HPC providers have extended or replaced their monitoring system to additionally track performance data from hardware monitoring facilities and even from the applications. The analysis of the data provides deeper insight in resource utilization and the quality of software. In addition, system administrators use performance data to track the causes of system instabilities to specific user codes. Due to the diversity of HPC centers, many tailored solutions for collection, storage, evaluation and visualization exist today. The workshop wants to bring together developers and users of such infrastructure in order to find ways of collaboration and exchange ideas for further developments.
@@ -36,6 +36,10 @@ There is a blind review process for each submitted paper with at least three rev
 ## Workshop agenda
 
 The remaining agenda will be published as soon as the number of papers is finalized.
+
+**Information from the Euro-Par workshop committee**:
+* A small fee will be required from all accepted papers (amount currently unknown)
+* The workshop talks can be either "Slides and pre-recorded video presentations" or "Streaming presentations". We will contact the authors which option they prefer.
 
 
 ## Chairs
