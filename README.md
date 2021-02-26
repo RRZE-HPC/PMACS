@@ -35,7 +35,10 @@ There is a blind review process for each submitted paper with at least three rev
 
 ## Workshop agenda
 
-The remaining agenda will be published as soon as the number of papers is finalized.
+The agenda will be published as soon as the number of papers is finalized.
+
+**Keynote**:
+The keynote will be given my Dmitry Nikitenko from Lomonosov Moscow State University (Russia)
 
 **Information from the Euro-Par workshop committee**:
 * A small fee will be required from all accepted papers (amount currently unknown)
@@ -53,6 +56,7 @@ The research interests of Anthony Danalis span several topics within the broad d
 * __Michael Klemm__ (AMD, Germany)
 * __Julian Kunkel__ (University of Reading, Great Britain)
 * __Axel Auweter__ (Megware, Germany)
+* __Dmitry Nikitenko__ (Lomonosov Moscow State University, Russia)
 
 ## Contact
 If you want to contact us, please write to Thomas _DOT_ Gruber _AT_ fau _DOT_ de
