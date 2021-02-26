@@ -59,6 +59,7 @@ The research interests of Anthony Danalis span several topics within the broad d
 * __Axel Auweter__ (Megware, Germany)
 * __Dmitry Nikitenko__ (Lomonosov Moscow State University, Russia)
 * __Josef Weidendorfer__ (Technische Universität München, Leibniz Rechenzentrum der Bayerischen Akademie der Wissenschaften, Garching, Germany)
+* __Sameer Shende__ (Univesity of Oregon, Oregon, USA)
 
 ## Contact
 If you want to contact us, please write to Thomas _DOT_ Gruber _AT_ fau _DOT_ de
