@@ -58,6 +58,7 @@ The research interests of Anthony Danalis span several topics within the broad d
 * __Julian Kunkel__ (University of Reading, Great Britain)
 * __Axel Auweter__ (Megware, Germany)
 * __Dmitry Nikitenko__ (Lomonosov Moscow State University, Russia)
+* __Josef Weidendorfer__ (Technische Universität München, Leibniz Rechenzentrum der Bayerischen Akademie der Wissenschaften, Garching, Germany)
 
 ## Contact
 If you want to contact us, please write to Thomas _DOT_ Gruber _AT_ fau _DOT_ de
