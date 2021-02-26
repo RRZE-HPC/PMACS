@@ -49,6 +49,10 @@ During his apprenticeship at the Erlangen Regional Computing Center [(RRZE)](htt
 The research interests of Anthony Danalis span several topics within the broad domain of performance, ranging from performance measurement and evaluation, to compiler optimization, to novel programming paradigms that enable better utilization of modern hardware. His PhD research focused on compiler optimizations for improving the performance of MPI applications. Later, as a research associate at the Oak Ridge National Lab [(ORNL)](https://www.ornl.gov/) and the University of Tennessee Knoxville [(UTK)](https://www.utk.edu/) he was a founding member of the GPU Benchmark suite [SHOC](https://github.com/vetter/shoc/wiki), the CPU benchmark suite [BlackjackBench](http://www.icl.utk.edu/~luszczek/pubs/Blackjackbench_acmper.pdf), and the task scheduling runtime [PaRSEC](http://icl.utk.edu/parsec/). Currently, Anthony Danalis is a research director with the Innovative Computing Laboratory [(ICL)](https://www.icl.utk.edu/) at the University of Tennessee and his research focuses on various extensions of the Performance Application Programming Interface [(PAPI)](https://icl.utk.edu/papi/index.html), which aim to (a) improve understanding of hardware counters, and (b) extend the notion of performance events to include not only hardware but also software-based information—all through one consistent interface.
 
 ## Programme committee
+* __Ann Gentile__ (Sandia National Laboratories (SNL), Albuquerque, New Mexico, USA)
+* __Michael Klemm__ (AMD, Germany)
+* __Julian Kunkel__ (University of Reading, Great Britain)
+* __Axel Auweter__ (Megware, Germany)
 
 ## Contact
 If you want to contact us, please write to Thomas _DOT_ Gruber _AT_ fau _DOT_ de
