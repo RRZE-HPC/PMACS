@@ -38,7 +38,8 @@ There is a blind review process for each submitted paper with at least three rev
 The agenda will be published as soon as the number of papers is finalized.
 
 **Keynote**:
-The keynote will be given my Dmitry Nikitenko from Lomonosov Moscow State University (Russia)
+The keynote will be given my Dr. (Ph.D.) Dmitry Nikitenko, Senior Scientist at the Research Computing Center of Lomonosov Moscow State University (RCC MSU).
+Key professional activities:  Co-leader of the “Top50 ranking of the most powerful supercomputers in Russia” project (since 2004), co-leader of the Octoshell (HPC Center Support and Management toolkit) Project (since 2010), efficiency of parallel applications and supercomputer application dynamics analysis (initial development of JobDigest tool based on system monitoring data), managing and administering of the largest in Russia HPC center at MSU (3000+ users, 400 research projects). PI of a number of projects related to resource utilization efficiency. "Supercomputing Frontiers and Innovations" (http://superfri.org) International Journal Editorial Board Member (since 2015).
 
 **Information from the Euro-Par workshop committee**:
 * A small fee will be required from all accepted papers (amount currently unknown)
