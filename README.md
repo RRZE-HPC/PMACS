@@ -28,7 +28,7 @@ There is a blind review process for each submitted paper with at least three rev
 
 
 ## Workshop dates
-* Papers submission deadline: May 28, 2021 AoE
+* Papers submission deadline: May 28, 2021 AoE (https://easychair.org/conferences/submissions?a=26086605)
 * Author notification: July 16, 2021
 * Workshop dates: August 30-31, 2021
 * Camera-ready paper (including LaTeX sources) deadline: September 11, 2021
@@ -63,6 +63,7 @@ The research interests of Anthony Danalis span several topics within the broad d
 * __Robert Schade__ (Paderborn Center for Parallel Computing (PC2), University Paderborn, Germany)
 * __Zhang Yang__ (Institute of Applied Physics and Computational Mathematics, Beijing, China)
 * __Heike Jagode__ (University of Tennessee, Tennessee, USA)
+* __Jack Deslippe__ (National Energy Research Scientific Computing Center, Berkeley, California, USA)
 
 ## Contact
 If you want to contact us, please write to Thomas _DOT_ Gruber _AT_ fau _DOT_ de
