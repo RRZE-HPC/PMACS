@@ -21,7 +21,7 @@ Paper contributions for this workshop should address at least one of the followi
 * Visualization of system monitoring metrics
 * Derived results and event triggering based on data analytics (machine learning, stream analysis, statistics, event management systems, ...)
 
-The page limit is 12 pages, including all references and appendices, and the formatting must follow the LNCS guidelines. Please note that papers with less than 10 pages will not be published in the workshop proceedings according to ruling of the Euro-Par workshop organization. At least one author of each accepted paper must present the paper at the workshop (25m talk and 5m for discussion).
+The page limit is 10-12 pages, including all references and appendices, and the formatting must follow the [LNCS guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Papers that do not meet these requirements might be rejected without a review. Only contributions that are not submitted elsewhere or currently under review will be considered.All submitted papers will be checked for originality by Springer iThenticate. Papers which show an insufficient originality might be rejected without a review. At least one author of each accepted paper must present the paper at the workshop (25m talk and 5m for discussion).
 
 There is a blind review process for each submitted paper with at least three reviewers from the programme committee. The review process will use [EasyChair](https://easychair.org/) for organization.
 
