@@ -28,7 +28,8 @@ There is a blind review process for each submitted paper with at least three rev
 
 
 ## Workshop dates
-* Papers submission deadline: May 7 2021, 23:59 Anywhere on Earth (AoE) ([submission link](https://easychair.org/conferences/submissions?a=26086605))
+* ~~Papers submission deadline: May 7 2021, 23:59 Anywhere on Earth (AoE)~~
+* **Update**: Papers submission deadline: May 28 2021, 23:59 Anywhere on Earth (AoE) ([submission link](https://easychair.org/conferences/submissions?a=26086605))
 * Author notification: July 30, 2021
 * Workshop dates: August 30-31, 2021
 * Camera-ready paper (including LaTeX sources) deadline: September 10, 2021
