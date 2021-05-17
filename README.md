@@ -16,8 +16,8 @@ Performance monitoring and analysis are widely used in data center operations. D
 
 Paper contributions for this workshop should address at least one of the following topics:
 * Data collection on all entities of a cluster system (compute nodes, management nodes, infrastructure nodes as well as network components)
-* Efficient transferring of the gathered metrics to intermediate systems (storage, direct visualization, …)
-* Storage of metrics for later use (databases, data management systems, …)
+* Efficient transferring of the gathered metrics to intermediate systems (storage, direct visualization, ...)
+* Storage of metrics for later use (databases, data management systems, ...)
 * Visualization of system monitoring metrics
 * Derived results and event triggering based on data analytics (machine learning, stream analysis, statistics, event management systems, ...)
 
@@ -29,7 +29,8 @@ There is a blind review process for each submitted paper with at least three rev
 
 ## Workshop dates
 * ~~Papers submission deadline: May 7 2021, 23:59 Anywhere on Earth (AoE)~~
-* **Update**: Papers submission deadline: May 28 2021, 23:59 Anywhere on Earth (AoE) ([submission link](https://easychair.org/conferences/submissions?a=26086605))
+* ~~Papers submission deadline: May 28 2021, 23:59 Anywhere on Earth (AoE)~~
+* **Update**: Papers submission deadline: June 14 2021, 23:59 Anywhere on Earth (AoE) ([submission link](https://easychair.org/conferences/submissions?a=26086605))
 * Author notification: July 30, 2021
 * Workshop dates: August 30-31, 2021
 * Camera-ready paper (including LaTeX sources) deadline: September 10, 2021
